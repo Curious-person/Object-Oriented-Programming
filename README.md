@@ -1,5 +1,5 @@
 # Object-Oriented-Programming
-## This repository will store the codes for the 3rd term of BSIT, 2022-2023.
+## This repository will recall the lessons discussed from the 2nd term, Intermediate Programming.
 Other things to consider:
 #
 Inheritance is adapting the same listings of one class to two or more classes. This is so that you don't have to repeat the same listing of codes (Parent, Child).
